@@ -1,5 +1,5 @@
 interface VehicleInterface {
-void drive();
-void stop();
-void refuel();
-}
+    void drive();
+    void stop();
+    void refuel();
+    }
